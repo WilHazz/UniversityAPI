@@ -1,0 +1,30 @@
+﻿# Archivos de compilación
+bin/
+obj/
+.vs/
+*.user
+*.suo
+
+# Configuración de entorno de desarrollo
+appsettings.Development.json
+appsettings.Staging.json
+appsettings.Production.json
+appsettings.Local.json
+appsettings.local.json
+
+# Archivos secretos o tokens
+secrets.json
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Node (si luego integras Angular aquí mismo)
+node_modules/
+
+# Logs
+*.log
+
+# Archivos generados por Rider/VSCode
+.idea/
+.vscode/
