@@ -1,0 +1,95 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Documents\\Cosas_Del_Escritorio\\Prueba_universidad\\BkPrueba_university\\UniversidadAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8931F6C9-1152-4FA5-B328-0CFE920BDFC9}|UniversidadAPI\\UniversidadAPI.csproj|c:\\users\\usuario\\documents\\cosas_del_escritorio\\prueba_universidad\\bkprueba_university\\universidadapi\\universidadapi\\services\\implementations\\inscripcionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8931F6C9-1152-4FA5-B328-0CFE920BDFC9}|UniversidadAPI\\UniversidadAPI.csproj|solutionrelative:universidadapi\\services\\implementations\\inscripcionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8931F6C9-1152-4FA5-B328-0CFE920BDFC9}|UniversidadAPI\\UniversidadAPI.csproj|c:\\users\\usuario\\documents\\cosas_del_escritorio\\prueba_universidad\\bkprueba_university\\universidadapi\\universidadapi\\services\\interfaces\\iinscripcionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8931F6C9-1152-4FA5-B328-0CFE920BDFC9}|UniversidadAPI\\UniversidadAPI.csproj|solutionrelative:universidadapi\\services\\interfaces\\iinscripcionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8931F6C9-1152-4FA5-B328-0CFE920BDFC9}|UniversidadAPI\\UniversidadAPI.csproj|c:\\users\\usuario\\documents\\cosas_del_escritorio\\prueba_universidad\\bkprueba_university\\universidadapi\\universidadapi\\controllers\\inscripcionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8931F6C9-1152-4FA5-B328-0CFE920BDFC9}|UniversidadAPI\\UniversidadAPI.csproj|solutionrelative:universidadapi\\controllers\\inscripcionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8931F6C9-1152-4FA5-B328-0CFE920BDFC9}|UniversidadAPI\\UniversidadAPI.csproj|c:\\users\\usuario\\documents\\cosas_del_escritorio\\prueba_universidad\\bkprueba_university\\universidadapi\\universidadapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8931F6C9-1152-4FA5-B328-0CFE920BDFC9}|UniversidadAPI\\UniversidadAPI.csproj|solutionrelative:universidadapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 234,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InscripcionesController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Cosas_Del_Escritorio\\Prueba_universidad\\BkPrueba_university\\UniversidadAPI\\UniversidadAPI\\Controllers\\InscripcionesController.cs",
+              "RelativeDocumentMoniker": "UniversidadAPI\\Controllers\\InscripcionesController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Cosas_Del_Escritorio\\Prueba_universidad\\BkPrueba_university\\UniversidadAPI\\UniversidadAPI\\Controllers\\InscripcionesController.cs",
+              "RelativeToolTip": "UniversidadAPI\\Controllers\\InscripcionesController.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAcwEwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T04:10:30.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IInscripcionService.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Cosas_Del_Escritorio\\Prueba_universidad\\BkPrueba_university\\UniversidadAPI\\UniversidadAPI\\Services\\Interfaces\\IInscripcionService.cs",
+              "RelativeDocumentMoniker": "UniversidadAPI\\Services\\Interfaces\\IInscripcionService.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Cosas_Del_Escritorio\\Prueba_universidad\\BkPrueba_university\\UniversidadAPI\\UniversidadAPI\\Services\\Interfaces\\IInscripcionService.cs",
+              "RelativeToolTip": "UniversidadAPI\\Services\\Interfaces\\IInscripcionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T04:02:02.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InscripcionService.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Cosas_Del_Escritorio\\Prueba_universidad\\BkPrueba_university\\UniversidadAPI\\UniversidadAPI\\Services\\Implementations\\InscripcionService.cs",
+              "RelativeDocumentMoniker": "UniversidadAPI\\Services\\Implementations\\InscripcionService.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Cosas_Del_Escritorio\\Prueba_universidad\\BkPrueba_university\\UniversidadAPI\\UniversidadAPI\\Services\\Implementations\\InscripcionService.cs",
+              "RelativeToolTip": "UniversidadAPI\\Services\\Implementations\\InscripcionService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBoAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T03:28:18.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Cosas_Del_Escritorio\\Prueba_universidad\\BkPrueba_university\\UniversidadAPI\\UniversidadAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "UniversidadAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Cosas_Del_Escritorio\\Prueba_universidad\\BkPrueba_university\\UniversidadAPI\\UniversidadAPI\\appsettings.json",
+              "RelativeToolTip": "UniversidadAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-24T01:46:54.3Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

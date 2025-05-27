@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using UniversidadAPI.DTOs;
+using UniversidadAPI.Services.Implementations;
 using UniversidadAPI.Services.Interfaces;
 
 namespace UniversidadAPI.Controllers
@@ -59,5 +60,21 @@ namespace UniversidadAPI.Controllers
 
             return NoContent();
         }
+
+        //GET /api/Inscripciones/companeros/5
+        [HttpGet("companeros/{estudianteId}")]
+        public async Task<ActionResult<IEnumerable<EstudianteReadDTO>>> GetCompanerosDeClase(int estudianteId)
+        {
+            try
+            {
+                var companeros = await _service.GetCompanerosDeClaseAsync(estudianteId);
+                return Ok(companeros);
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(500, $"Error al obtener compañeros de clase: {ex.Message}");
+            }
+        }
+
     }
 }
